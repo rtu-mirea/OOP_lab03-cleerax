@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bbd5ed3-c914-4c58-8035-2ee01ff9da42" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/EffectiveProductionSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/EffectiveProductionSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/Instrument.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/Instrument.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/Request.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/RequestPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/RequestPart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab3/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab3/User.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Admin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EffectiveProductionSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EffectiveProductionSystem.java" afterDir="false" />
@@ -12,7 +22,6 @@
       <change beforePath="$PROJECT_DIR$/src/RequestPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RequestPart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,27 +39,21 @@
   </component>
   <component name="ProjectId" id="1STs108w45EDAj8XOwyAgQV86h3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EffectiveProductionSystem">
     <configuration name="Admin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Admin" />
       <module name="Lab3" />
@@ -58,11 +61,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EffectiveProductionSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EffectiveProductionSystem" />
+      <module name="Lab3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EffectiveProductionSystem" />
         <item itemvalue="Application.Admin" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -89,5 +112,31 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575315614386">
+      <screen x="0" y="23" width="1366" height="672" />
+    </state>
+    <state x="533" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1366.672@0.23.1366.672" timestamp="1575315614386" />
+    <state width="1324" height="163" key="GridCell.Tab.0.bottom" timestamp="1575315890772">
+      <screen x="0" y="23" width="1366" height="672" />
+    </state>
+    <state width="1324" height="163" key="GridCell.Tab.0.bottom/0.23.1366.672@0.23.1366.672" timestamp="1575315890772" />
+    <state width="1324" height="163" key="GridCell.Tab.0.center" timestamp="1575315890770">
+      <screen x="0" y="23" width="1366" height="672" />
+    </state>
+    <state width="1324" height="163" key="GridCell.Tab.0.center/0.23.1366.672@0.23.1366.672" timestamp="1575315890770" />
+    <state width="1324" height="163" key="GridCell.Tab.0.left" timestamp="1575315890768">
+      <screen x="0" y="23" width="1366" height="672" />
+    </state>
+    <state width="1324" height="163" key="GridCell.Tab.0.left/0.23.1366.672@0.23.1366.672" timestamp="1575315890768" />
+    <state width="1324" height="163" key="GridCell.Tab.0.right" timestamp="1575315890771">
+      <screen x="0" y="23" width="1366" height="672" />
+    </state>
+    <state width="1324" height="163" key="GridCell.Tab.0.right/0.23.1366.672@0.23.1366.672" timestamp="1575315890771" />
+    <state x="362" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1575315589617">
+      <screen x="0" y="23" width="1366" height="672" />
+    </state>
+    <state x="362" y="191" key="com.intellij.ide.util.TipDialog/0.23.1366.672@0.23.1366.672" timestamp="1575315589617" />
   </component>
 </project>

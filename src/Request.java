@@ -3,7 +3,9 @@ import java.util.ArrayList;
 
 public class Request {
 
-    private List<RequestPart> parts = new ArrayList<>();
+    private List<RequestPart> parts;
+
+    public Request() { parts = new ArrayList<>(); }
 
     public void addPart(Instrument instrument, int time) {
         RequestPart part = new RequestPart(instrument, time);
